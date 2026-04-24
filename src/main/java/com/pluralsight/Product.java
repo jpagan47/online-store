@@ -18,35 +18,20 @@ public class Product {
         return sku;
     }
 
-    public void setSku(String sku) {
-        this.sku = sku;
-    }
 
     public String getProductName() {
         return productName;
     }
 
-    public void setProductName(String productName) {
-        this.productName = productName;
-    }
 
     public double getPrice() {
         return price;
     }
 
-    public void setPrice(double price) {
-        this.price = price;
-    }
 
     public String getDepartment() {
         return department;
     }
-
-    public void setDepartment(String department) {
-        this.department = department;
-    }
-
-
 
 
 }
