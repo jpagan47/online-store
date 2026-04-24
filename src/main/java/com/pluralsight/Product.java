@@ -1,5 +1,4 @@
 package com.pluralsight;
 
-public class OnlineStore {
-
+public class Product {
 }
